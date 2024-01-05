@@ -1,13 +1,3 @@
- # string concatenatio (aka how to put string together)
-# suppose we want to create a string that says "subcribe to ______"
-#youtuber = "Jazmine Bentley" # some strig variable
-
-# a few ways to do this 
-#print( "subscribe to " + youtuber)
-#print("subscribe to {}".format(youtuber))
-#print(f"subscribe to {youtuber}")
-
-
 adj = input("Adjective: ")
 verb1 = input("Verb: ")
 verb2 = input("Verb: ")
